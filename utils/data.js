@@ -32,7 +32,7 @@ const POSTS = [
     title: "Hello World!",
     content: "This is my first post.",
     likeGiverIds: [2],
-  },
+  } ,
   {
     id: 2,
     authorId: 2,
